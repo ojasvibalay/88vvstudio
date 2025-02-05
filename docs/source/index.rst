@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+88VV - Nhà cái cá cược trực tuyến được nhiều người chơi tin tưởng 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88VV <https://88vv.studio/>`_ là nhà cái cá cược trực tuyến được nhiều người chơi tin tưởng nhờ hệ thống giải trí đa dạng và chất lượng dịch vụ cao. 88vv com cung cấp các sản phẩm hấp dẫn như cá cược thể thao, casino trực tuyến, game bài, bắn cá và slot game, mang đến trải nghiệm giải trí phong phú.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Liên Hệ:
 
-.. note::
+Địa chỉ: QL27, Lạc Xuân, Đơn Dương, Lâm Đồng, Việt Nam
 
-   This project is under active development.
+Email: 88vvstudio@gmail.com
 
-Contents
---------
+Phone:  0979285333
 
-.. toctree::
+Website: https://88vv.studio/
 
-   usage
-   api
+Hashtag: #88vv #88vvcom #nhacai88vv #trangchu88vv #link88vv #88vvstudio 
